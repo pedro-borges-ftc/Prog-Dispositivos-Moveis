@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Movimentos		TAR	148	new record size: 148
+Movimentos	mov_ID	NNR	MovimentosID	CAUTION: MovimentosID key renamed as mov_ID
+Movimentos	mov_descricao	RUB+		mov_descricao is a new item
+Movimentos	mov_cadastro	RUB+		mov_cadastro is a new item
+Movimentos	mov_vencimento	RUB+		mov_vencimento is a new item
+Movimentos	mov_valor	RUB+		mov_valor is a new item
+Movimentos	mov_quitado	RUB+		mov_quitado is a new item
+Movimentos	mov_tipo_lan	RUB+		mov_tipo_lan is a new item

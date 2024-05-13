@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ANALYSE GenNum="2" VersionStructure="2" RepertoireDefaut=""><CONNEXION Nom="MyConnection1" Type="17"><SOURCE>MyAnalysis</SOURCE><USER/><MDP/><DB>MyAnalysis</DB><INFOS_ETENDUES>;Initial Catalog=MyAnalysis;Initial Catalog=MyAnalysis</INFOS_ETENDUES></CONNEXION></ANALYSE>
